@@ -1,4 +1,4 @@
-<img width="256" height="64" alt="findrbanner" src="https://github.com/user-attachments/assets/2dedaed9-377c-426a-985c-c4f3dbd3f89d" />
+<img width="1000" height="250" alt="findrbanner" src="https://github.com/user-attachments/assets/2dedaed9-377c-426a-985c-c4f3dbd3f89d" />
 
 ## 🔍 Findr — Smarter Shopping in One Click
 
