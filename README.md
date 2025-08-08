@@ -1,5 +1,5 @@
-<img width="256" height="256" alt="findr" src="https://github.com/user-attachments/assets/49f134cf-06ac-485e-b388-4af1c8bbf050" /> 
-# 🔍 Findr — Smarter Shopping in One Click
+<img width="128" height="128" alt="findr" src="https://github.com/user-attachments/assets/49f134cf-06ac-485e-b388-4af1c8bbf050" /> 
+### 🔍 Findr — Smarter Shopping in One Click
 
 **Findr** is a lightweight, privacy-first browser extension that helps you discover **better deals** for the product you're currently viewing — or find **cheaper alternatives** with just a single click. No logins, no trackers, no BS.
 
