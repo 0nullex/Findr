@@ -15,7 +15,7 @@
   Displays results in a clear, readable UI with product titles, favicons, and prices at a glance.
 
 - 💻 **Cross-Browser Support**  
-  Designed to work on all Chromium-based browsers (Chrome, Edge, Brave, Opera, etc.) and Firefox (including Librewolf, Tor, and Fennec).
+  Designed to work on all Chromium-based browsers (Chrome, Edge, Brave, Opera, etc.) and Firefox (including Librewolf, Mull Browser and Fennec).
 
 - 🧠 **No Database. No Server. No Footprint.**  
   Runs completely in-browser. No external APIs, no telemetry, and no user data collection.
